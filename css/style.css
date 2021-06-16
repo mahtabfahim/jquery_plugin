@@ -1,0 +1,14 @@
+.header{
+background-color: lightgreen;
+padding: 20px;
+text-align: center;
+font-size:25px;
+color: whitesmoke;
+cursor: pointer;
+}
+.messages{
+	background-color: lightslategray;
+	padding: 50px;
+	text-align: center;
+	display: none;
+}
